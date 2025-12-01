@@ -1,2 +1,2 @@
-# Advent of Code 2025 :christmas-tree:
+# Advent of Code 2025 🎄
 Twelve days of coding challenges!
